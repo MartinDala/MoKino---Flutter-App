@@ -1,16 +1,9 @@
-# receitasmwangole
+# Receitas Mwangolé - MóKino
 
-A new Flutter application.
+MóKino, é uma aplicação mobile feita com flutter para fim didatico e que sirva para aqueles que querem receitas de comidas na palma de sua mão
 
-## Getting Started
+## Voce pode baixar o APK, atravez deste link
 
-This project is a starting point for a Flutter application.
+- [Baixar App MóKino](https://facebook.com/martindala2)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projecto é livre, voce pode alterar e mudar oque quiser, Esteja a vontande, é para aprendizado, Mas nunca esquecendo o autor.
